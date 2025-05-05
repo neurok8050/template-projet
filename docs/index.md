@@ -1,21 +1,20 @@
-# Projet IFT3150: Nom du projet
+# Projet IFT3150: [Méthode interprétable par auto-encodeur creux pour l'encodage de l'activité cérébrale IRMf](https://github.com/neurok8050/template-projet)
 
-> **Thèmes**: Science de données, Génie logiciel  
-> **Superviseur**: Nom du supervisuer  
-> **Collaborateurs:** Nom de(s) collaborateur(s) et partenaire(s)
+> **Thèmes**: Neuro-imagerie, Science des données, Apprentissage-machine  
+> **Superviseur**: Lune Bellec  
+> **Collaborateurs:** 
 
 ## Informations importantes
 
 !!! info "Dates importantes"
     - **Description du projet** : 16 mai 2025
-    - **Foire 1: Prototypage** : 9-13 juin 2025
-    - **Foire 2: Version beta** : 14-18 juillet 2025
-    - **Présentation et rapport** : 11-15 août 2025
+        - **Foire 1: Prototypage** : 9-13 juin 2025
+        - **Foire 2: Version beta** : 14-18 juillet 2025
+        - **Présentation et rapport** : 11-15 août 2025
 
 ## Équipe
 
-- Alice Dupont: Responsable de...
-- Bob Tremblay: Responsable de...
+- Claudéric DeRoy
 
 ## Description du projet
 
