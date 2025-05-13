@@ -17,13 +17,15 @@
 - Claudéric DeRoy
 
 ## Description du projet
+- L'encodage cérébral permet de modéliser l'activité cérébral sachant un stimulus. Pour modéliser cette encodage, on utilise différent modèle comme une *Linear Support Vector Machine* (SVC) ou encore des *Random Forest* (RF) (Zhang et al., 2021) ou plus récemment le *Ridge Regression* (RR) (Ahmadi et al., 2024). décrire le pipeline de base du algonauts projets 2025
 
 ### Contexte
-
+- Un parallèle intéressant est fait entre un réseau de neurone artificiel (*Artificial Neuron Network* (ANN)) et les réseaux neuronales du cerveau humain (citation).
 ### Problématique ou motivations
+- Un des plus populaire modèle est le RR, toutefois il est lourd à entraîner (Ahmadi et al., 2024). De plus, le RR est difficilement interprétable.
 
 ### Proposition et objectifs
-
+- Le but est donc de réduire la dimension du modèle utilisé, dans ce cas un RR,  par l'auto-encodage proposé par (Cunningham et al., 2023). La réduction de la dimensionnalité fait par l'auto-encodeur à matrice creuse s'effectue par l'extraction les caractéristiques les plus interprétables du modèle. Ensuite, un *Graph Convolutional Network* (GCN) permet de relier 
 
 ## Échéancier
 
