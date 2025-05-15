@@ -24,7 +24,14 @@
 ---
 
 ## Semaine 2
-
+#### Établir une bonne base pour la compréhension théorique du projet
+- Tutoriel sur les bases du *brain encoding-decoding*, [tutorial](https://main-educational.github.io/brain_encoding_decoding/intro.html)
+- Tutoriel sur le *Graph Convolutional Network* (GCN), [tutorial](https://github.com/zhangyu2ustc/gcn_tutorial_test)
+- Tutorial du *Algonauts project 2025*, [tutorial](https://www.youtube.com/watch?v=S_RxMiLUZ_w&t=1642s)
+- Article à lire/lu :
+	- [x] [Functional annotation of human cognitive states using deep graph convolution](https://www.sciencedirect.com/science/article/pii/S1053811921001245)
+	- [ ] [Scaling up ridge regression for brain encoding in a massive individual fMRI dataset](https://arxiv.org/abs/2403.19421)
+	- [ ] [Brain decoding of the human connectome project tasks in a dense individual fMRI dataset](https://www.sciencedirect.com/science/article/pii/S1053811923005463)
 ## Semaine 3
 
 ## Semaine 4

@@ -1,7 +1,7 @@
 # Projet IFT3150: [Méthode interprétable par auto-encodeur creux pour l'encodage de l'activité cérébrale IRMf](https://github.com/neurok8050/template-projet)
 
 > **Thèmes**: Neuro-imagerie, Science des données, Apprentissage-machine  
-> **Superviseur**: Lune Bellec  
+> **Superviseur**: Pierre Lune Bellec  
 > **Collaborateurs:** 
 
 ## Informations importantes
@@ -17,15 +17,15 @@
 - Claudéric DeRoy
 
 ## Description du projet
-- L'encodage cérébral permet de modéliser l'activité cérébral sachant un stimulus. Pour modéliser cette encodage, on utilise différent modèle comme une *Linear Support Vector Machine* (SVC) ou encore des *Random Forest* (RF) (Zhang et al., 2021) ou plus récemment le *Ridge Regression* (RR) (Ahmadi et al., 2024). décrire le pipeline de base du algonauts projets 2025
+-  *The Algonauts Project* 2025 est une compétition amicale internationale qui consiste en un défi où des chercheur(e)s doivent élaborer un modèle d'encodage de l'activité cérébrale humaine issu de stimuli multimodaux (i.e. stimulus visuel, auditif et langagier). Toutefois, les stimuli ne sont pas sous une forme utilisable pour un modèle d'AM. Il faut donc extraire des stimuli des caractéristiques qui pourront être utilisable par un AM. Dans ce cas, les caractéristiques extraitent sont volumineuses et il est donc préférable d'en réduire la dimension le plus possible. L'algorithme de base pour effectuer cette réduction de dimensionnalité est une *Principal Component Analysis* (PCA). Une fois la dimension effectue, les données sont utilisées avec les données d'activité cérébrale afin d'élaborer un encodeur de l'activité cérébrale. Un des modèles les plus utilisés est le *Ridge Regression* (RR).
 
 ### Contexte
-- Un parallèle intéressant est fait entre un réseau de neurone artificiel (*Artificial Neuron Network* (ANN)) et les réseaux neuronales du cerveau humain (citation).
+- Depuis 2019, *The Algonauts Project* offre à chaque année un défi sous forme de projet afin de faciliter la coopération entre les chercheur(e)s en biologie et en apprentissage machine (AM). Cette année, le défi est trouver un modèle AM qui permet de bien encoder l'activité cérébrale humain provenant de l'exposition à des stimuli multimodaux (i.e. visuel, auditif et langagier).
 ### Problématique ou motivations
-- Un des plus populaire modèle est le RR, toutefois il est lourd à entraîner (Ahmadi et al., 2024). De plus, le RR est difficilement interprétable.
+- La méthode courament utilisé pour réduire la dimension des caractéristiques extraites des stimuli multimodaux est la PCA. Malgré la réduction de dimensionalité issu de la PCA, le RR obtenu contient des milliards de paramètres et est donc difficilement interprétable et long à entraîner. 
 
 ### Proposition et objectifs
-- Le but est donc de réduire la dimension du modèle utilisé, dans ce cas un RR,  par l'auto-encodage proposé par (Cunningham et al., 2023). La réduction de la dimensionnalité fait par l'auto-encodeur à matrice creuse s'effectue par l'extraction les caractéristiques les plus interprétables du modèle. Ensuite, un *Graph Convolutional Network* (GCN) permet de relier 
+- Nous voulons changer la PCA qui est le plus souvent utilisé afin de réduire la dimension des caractéristiques extraite des stimuli multimodaux par un auto-encodeur à matrice creuse. Ce modèle permettrait d'obtenir une réduction des caractéristiques meilleure et donnerait des résultats plus interprétable avec le RR.
 
 ## Échéancier
 
