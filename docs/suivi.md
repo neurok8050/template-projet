@@ -34,7 +34,18 @@
 	- [ ] [Brain decoding of the human connectome project tasks in a dense individual fMRI dataset](https://www.sciencedirect.com/science/article/pii/S1053811923005463)
 ## Semaine 3
 
+#### Rédaction de la description du projet
+ - Écriture de la description du projet
+ - Visionnement d'une conférence du *Cognitive computational neuroscience 2024* (CCN) sur le *sparse auto-encoder* très informatif
+ - J'ai contacté le CCN pour pouvoir accès au tutoriel sur le *sparse auto-encoder*, j'attends une réponse
+ - Article à lire/lu :
+	 - [x] [Functional annotation of human cognitive states using deep graph convolution](https://www.sciencedirect.com/science/article/pii/S1053811921001245)
+	 - [x] [Scaling up ridge regression for brain encoding in a massive individual fMRI dataset](https://arxiv.org/abs/2403.19421)
+	 - [ ] [Brain decoding of the human connectome project tasks in a dense individual fMRI dataset](https://www.sciencedirect.com/science/article/pii/S1053811923005463)
+	 - [ ] [Neural Encoding and Decoding with Deep Learning for Dynamic Natural Vision](https://academic.oup.com/cercor/article/28/12/4136/4560155)
+
 ## Semaine 4
+#### Début de l'élaboration de l'auto-encodeur à matrice creuse
 
 ## Semaine 5
 
