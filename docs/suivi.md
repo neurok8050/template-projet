@@ -46,8 +46,8 @@
 
 ## Semaine 4
 #### Théorie derrière l'idée de l'utilisation d'un sparse auto-encoder (SAE)
-- Tutoriel sur SAE : [Tutorial](https://github.com/callummcdougall/sae-exercises-mats)
-- Début du tutoriel sur le SAE de Jack Lindsey du CCN 2024 : [Tutorial](https://github.com/courtois-neuromod/graph_brain_encoding/blob/main/CCN_2024_Tutorial_Sparse_Autoencoders_for_Interpretability.ipynb)
+- Tutoriel sur la superposition de *toy models* : [Tutorial](https://colab.research.google.com/drive/15S4ISFVMQtfc0FPi29HRaX03dWxL65zx#scrollTo=bZ8uXi56vw-r)
+- Début du tutoriel sur le SAE de Jack Lindsey du CCN 2024 : [Tutorial](https://colab.research.google.com/drive/1DeagoR31QM9qFsMkVMgEuJPst9OwsGv4)
 - Article à lire/lu :
 	 - [x] [Functional annotation of human cognitive states using deep graph convolution](https://www.sciencedirect.com/science/article/pii/S1053811921001245)
 	 - [x] [Scaling up ridge regression for brain encoding in a massive individual fMRI dataset](https://arxiv.org/abs/2403.19421)
