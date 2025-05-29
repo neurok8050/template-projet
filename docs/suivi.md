@@ -45,11 +45,22 @@
 	 - [ ] [Neural Encoding and Decoding with Deep Learning for Dynamic Natural Vision](https://academic.oup.com/cercor/article/28/12/4136/4560155)
 
 ## Semaine 4
-#### Début de l'élaboration de l'auto-encodeur à matrice creuse
+#### Théorie derrière l'idée de l'utilisation d'un sparse auto-encoder (SAE)
+- Tutoriel sur SAE : [Tutorial](https://github.com/callummcdougall/sae-exercises-mats)
+- Début du tutoriel sur le SAE de Jack Lindsey du CCN 2024 : [Tutorial](https://github.com/courtois-neuromod/graph_brain_encoding/blob/main/CCN_2024_Tutorial_Sparse_Autoencoders_for_Interpretability.ipynb)
+- Article à lire/lu :
+	 - [x] [Functional annotation of human cognitive states using deep graph convolution](https://www.sciencedirect.com/science/article/pii/S1053811921001245)
+	 - [x] [Scaling up ridge regression for brain encoding in a massive individual fMRI dataset](https://arxiv.org/abs/2403.19421)
+	 - [ ] [Brain decoding of the human connectome project tasks in a dense individual fMRI dataset](https://www.sciencedirect.com/science/article/pii/S1053811923005463)
+	 - [ ] [Neural Encoding and Decoding with Deep Learning for Dynamic Natural Vision](https://academic.oup.com/cercor/article/28/12/4136/4560155)
+	 - [ ] [Toy Models of Superposition](http://arxiv.org/abs/2209.10652)
+
 
 ## Semaine 5
 
 ## Semaine 6
+
+![time to dev](https://media1.tenor.com/m/9ylofhczSfgAAAAC/time-to-dev-cat.gif)
 
 ## Semaine 7
 
