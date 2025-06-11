@@ -51,17 +51,39 @@
 - Article à lire/lu :
 	 - [x] [Functional annotation of human cognitive states using deep graph convolution](https://www.sciencedirect.com/science/article/pii/S1053811921001245)
 	 - [x] [Scaling up ridge regression for brain encoding in a massive individual fMRI dataset](https://arxiv.org/abs/2403.19421)
-	 - [ ] [Brain decoding of the human connectome project tasks in a dense individual fMRI dataset](https://www.sciencedirect.com/science/article/pii/S1053811923005463)
+	 - [x] [Brain decoding of the human connectome project tasks in a dense individual fMRI dataset](https://www.sciencedirect.com/science/article/pii/S1053811923005463)
 	 - [ ] [Neural Encoding and Decoding with Deep Learning for Dynamic Natural Vision](https://academic.oup.com/cercor/article/28/12/4136/4560155)
 	 - [ ] [Toy Models of Superposition](http://arxiv.org/abs/2209.10652)
 
 
 ## Semaine 5
+- Fini les tutoriels sur le SAE
+- Setup du python virtual environnement sur le serveur du centre de recherche (l'environnement donné pour le projet ne foncitonne pas sur mon ordi, le serveur du centre de recherche et sur béluga)
+- J'ai maintenant accès aux données (~1.5 TB)
+- Article à lire/lu :
+	 - [x] [Functional annotation of human cognitive states using deep graph convolution](https://www.sciencedirect.com/science/article/pii/S1053811921001245)
+	 - [x] [Scaling up ridge regression for brain encoding in a massive individual fMRI dataset](https://arxiv.org/abs/2403.19421)
+	 - [x] [Brain decoding of the human connectome project tasks in a dense individual fMRI dataset](https://www.sciencedirect.com/science/article/pii/S1053811923005463)
+	 - [ ] [Neural Encoding and Decoding with Deep Learning for Dynamic Natural Vision](https://academic.oup.com/cercor/article/28/12/4136/4560155)
+	 - [ ] [Toy Models of Superposition](http://arxiv.org/abs/2209.10652)
 
-## Semaine 6
-
+## Semaine 6  
+- Début de l'extraction des caractéristiques visuelles des six premières saisons de *Friends*
+	- [x] s1
+	- [ ] s2
+	- [ ] s3
+	- [ ] s4
+	- [ ] s5
+	- [ ] s6
+- Article à lire/lu :
+	 - [x] [Functional annotation of human cognitive states using deep graph convolution](https://www.sciencedirect.com/science/article/pii/S1053811921001245)
+	 - [x] [Scaling up ridge regression for brain encoding in a massive individual fMRI dataset](https://arxiv.org/abs/2403.19421)
+	 - [x] [Brain decoding of the human connectome project tasks in a dense individual fMRI dataset](https://www.sciencedirect.com/science/article/pii/S1053811923005463)
+	 - [ ] [Neural Encoding and Decoding with Deep Learning for Dynamic Natural Vision](https://academic.oup.com/cercor/article/28/12/4136/4560155)
+	 - [ ] [Toy Models of Superposition](http://arxiv.org/abs/2209.10652)
+	 - [ ] [The response time paradox in functional magnetic resonance  imaging analyses](https://www.nature.com/articles/s41562-023-01760-0) à lire pour le lab journal club
+	 
 ![time to dev](https://media1.tenor.com/m/9ylofhczSfgAAAAC/time-to-dev-cat.gif)
-
 ## Semaine 7
 
 ## Semaine 8
